@@ -1,0 +1,43 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #4848ce 19.62%, #1e5799 85.61%);
+}
+
+.logo-cabecalho {
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.nome-cabecalho {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cabecalho {
+    display: inline;
+}
+
+.matricula, .atividades-extras, .boleto, .material, .notas, .faltas, .forum{
+    background-color: rgb(111, 111, 231);
+    width: 200px;
+    height: 150px;
+    padding: 24px 14px 24px 40px;
+    border-radius: 5%;
+    margin: 15px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+}
+
+li{
+    text-decoration: none;
+}
