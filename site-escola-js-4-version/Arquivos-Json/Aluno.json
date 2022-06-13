@@ -1,0 +1,639 @@
+[{  "idAluno":"1",
+    "nome":"Ana Rodrigues Barbosa",
+    "cpf":"626.126.133-40",
+    "dataNascimento":"15/02/2012",
+    "email":"AnaRodrigues2011@hotmail.com.br",
+    "telefone":"(41) 3589-9992",
+    "endereco":"Rua Rafael Picoli, 1458",
+    "ano":"5º ano",
+    "senha":"aluno",
+    "notas":[{
+        "resultadoConhecGerais":{
+            "nomeAula":"Conhecimentos Gerais",            
+        
+            "prova1":"5.8",
+
+            "prova2":"8.7",
+        
+            "notaFinal":"7.3",
+        
+            "frequencia":"80%",
+        
+            "situacao":"Ótimo"
+        },
+        "resultadoEdFisica":{
+            "nomeAula":"Educação Física",
+
+            "prova1":"4.7",
+
+            "prova2":"5.9",
+
+            "notaFinal":"5.3",
+
+            "frequencia":"60%",
+
+            "situacao":"Razoável"
+        },
+        "resultadoEspanhol":{
+            "nomeAula":"Espanhol",
+
+            "prova1":"8.1",
+
+            "prova2":"9.0",
+        
+            "notaFinal":"8.6",
+        
+            "frequencia":"90%",
+        
+            "situacao":"Ótimo"
+        },
+        "resultadoBallet":{
+            "nomeAula":"Ballet",
+
+            "prova1":"7.5",
+
+            "prova2":"8.3",
+        
+            "notaFinal":"7.9",
+        
+            "frequencia":"90%",
+       
+            "situacao":"Ótimo"
+        }
+    }]
+    
+
+},{
+    "idAluno":"2",
+    "nome":"André Pereira Almeida",
+    "cpf":"975.081.677-32",
+    "dataNascimento":"11/11/2012",
+    "email":"AndreAlmeida10@outlook.com",
+    "telefone":"(41) 8654-3369",
+    "endereco":"Travessa Brumado, 1880",
+    "ano":"5º ano",
+    "senha":"aluno",
+    "resultadoConhecGerais":{
+        "nomeAula":"Conhecimentos Gerais",
+        
+        "prova1":"9.0",
+    
+        "prova2":"10.0",
+    
+        "notaFinal":"9.5",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    },
+    "resultadoEdFisica":{
+        "nomeAula":"Educação Física",
+        
+        "prova1":"7.5",
+
+        "prova2":"6.0",
+    
+        "notaFinal":"6.8",
+    
+        "frequencia":"50%",
+    
+        "situacao":"Razoável"
+    },
+    "resultadoIngles":{
+        "nomeAula":"Inglês",
+        
+        "prova1":"9.0",
+    
+        "prova2":"8.9",
+    
+        "notaFinal":"9.0",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    },
+    "resultadoEspanhol":{
+        "nomeAula":"Espanhol",
+
+        "prova1":"8.7",
+    
+        "prova2":"7.0",
+    
+        "notaFinal":"7.6",
+    
+        "frequencia":"80%",
+    
+        "situacao":"Bom"
+    },
+    "resultadoJudo":{
+        "nomeAula":"Judô",
+
+        "prova1":"5.6",
+    
+        "prova2":"6.9",
+    
+        "notaFinal":"6.3",
+    
+        "frequencia":"70%",
+    
+        "situacao":"Razoável"
+    }
+       
+},{
+    "idAluno":"3",
+    "nome":"Carlos Ferreira Cavalcanti",
+    "cpf":"459.140.767-57",
+    "dataNascimento":"21/05/2012",
+    "email":"CarlosFC@gmail.com",
+    "telefone":"(41) 9906-4050",
+    "endereco":"Rua dos Pedreiros, 1211",
+    "ano":"5º ano",
+    "senha":"aluno",
+    "resultadoConhecGerais":{
+        "nomeAula":"Conhecimentos Gerais",
+
+        "prova1":"6.8",
+    
+        "prova2":"8.9",
+    
+        "notaFinal":"7.6",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoEdFisica":{
+        "nomeAula":"Educação Física",
+
+        "prova1":"9.2",
+    
+        "prova2":"9.5",
+    
+        "notaFinal":"9.4",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    },
+    "resultadoEspanhol":{
+        "nomeAula":"Espanhol",
+
+        "prova1":"7.7",
+    
+        "prova2":"9.3",
+    
+        "notaFinal":"8.5",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoJudo":{
+        "nomeAula":"Judô",
+
+        "prova1":"7.8",
+    
+        "prova2":"8.0",
+    
+        "notaFinal":"7.9",
+    
+        "frequencia":"80%",
+    
+        "situacao":"Bom"
+    }
+},{
+    "idAluno":"4",
+    "nome":"Fábio Azevedo Araujo",
+    "cpf":"626.205.162-77",
+    "dataNascimento":"09/03/2012",
+    "email":"FabioAzevedoAraujo@gmail.com.br",
+    "telefone":"(41) 3394-2201",
+    "endereco":"Rua Padre Cícero Romão, 622",
+    "ano":"5º ano",
+    "senha":"aluno",
+    "resultadoConhecGerais":{
+        "nomeAula":"Conhecimentos Gerais",
+
+        "prova1":"3.4",
+    
+        "prova2":"5.2",
+    
+        "notaFinal":"4.3",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoEdFisica":{
+        "nomeAula":"Educação",
+
+        "prova1":"10.0",
+    
+        "prova2":"8.8",
+    
+        "notaFinal":"9.4",
+
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    },
+    "resultadoIngles":{
+        "nomeAula":"Inglês",
+
+        "prova1":"6.5",
+    
+        "prova2":"6.0",
+    
+        "notaFinal":"6.3",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoJudo":{
+        "nomeAula":"Judô",
+
+        "prova1":"7.0",
+    
+        "prova2":"7.1",
+    
+        "notaFinal":"7.1",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    }
+
+},{
+    "idAluno":"5",
+    "nome":"Gabriela Barros Alves",
+    "cpf":"302.025.602-01",
+    "dataNascimento":"13/09/2012",
+    "email":"GabrielaAlves@gmail.com",
+    "telefone":"(41) 3764-2022",
+    "endereco":"Rua Itália, 1848",
+    "ano":"5º ano",
+    "senha":"aluno",
+    "resultadoConhecGerais":{
+        "nomeAula":"Conhecimentos Gerais",
+
+        "prova1":"5.8",
+    
+        "prova2":"8.0",
+    
+        "notaFinal":"6.9",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    },
+    "resultadoEdFisica":{
+        "nomeAula":"Educação Física",
+
+        "prova1":"7.4",
+    
+        "prova2":"7.1",
+    
+        "notaFinal":"7.3",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    },
+    "resultadoIngles":{
+        "nomeAula":"Inglês",
+
+        "prova1":"9.0",
+    
+        "prova2":"8.6",
+    
+        "notaFinal":"8.8",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    },
+    "resultadoBallet":{
+        "nomeAula":"Ballet",
+        
+        "prova1":"8.2",
+    
+        "prova2":"9.1",
+    
+        "notaFinal":"8.7",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    }
+},{
+    "idAluno":"6",
+    "nome":"Luiza Barbosa Gomes",
+    "cpf":"929.045.378-80",
+    "dataNascimento":"19/03/2012",
+    "email":"Luiza041Gomes@hotmail.com",
+    "telefone":"(41) 3074-8959",
+    "endereco":"Rua Itapira, 192",
+    "ano":"5º ano",
+    "senha":"aluno",
+    "resultadoConhecGerais":{
+        "nomeAula":"Conhecimento Gerais",
+        
+        "prova1":"3.5",
+    
+        "prova2":"4.7",
+    
+        "notaFinal":"4.1",
+    
+        "frequencia":"40%",
+    
+        "situacao":"Ruim"
+    },
+    "resultadoEdFisica":{
+        "idAula":"Educação Física",
+        
+        "prova1":"6.1",
+    
+        "prova2":"5.9",
+    
+        "notaFinal":"6.0",
+    
+        "frequencia":"60%",
+    
+        "situacao":"Razoável"
+    },
+    "resultadoEspanhol":{
+        "nomeAula":"Espanhol",
+        
+        "prova1":"6.5",
+    
+        "prova2":"6.6",
+    
+        "notaFinal":"6.6",
+    
+        "frequencia":"70%",
+    
+        "situacao":"Razoável"
+    },
+    "resultadoBallet":{
+        "nomeAula":"Ballet",
+        
+        "prova1":"8.0",
+    
+        "prova2":"8.5",
+    
+        "notaFinal":"8.6",
+    
+        "frequencia":"80%",
+    
+        "situacao":"Bom"
+    }
+},{
+    "idAluno":"7",
+    "nome":"Mariana Carvalho Almeida",
+    "cpf":"817.487.897-16",
+    "dataNascimento":"22/04/2012",
+    "email":"MariCarvalho@gmail.com",
+    "telefone":"(41) 9261-3742",
+    "endereco":"Rua Dezesseis de Julho, 1045",
+    "ano":"5º ano",
+    "senha":"aluno",
+    "resultadoConhecGerais":{
+        "nomeAula":"Conhecimentos Gerais",
+ 
+        "prova1":"5.0",
+    
+        "prova2":"7.7",
+    
+        "notaFinal":"6.6",
+    
+        "frequencia":"80%",
+    
+        "situacao":"Bom"
+    },
+    "resultadoEdFisica":{
+        "nomeAula":"Educação Física",
+
+        "prova1":"7.9",
+    
+        "prova2":"8.5",
+    
+        "notaFinal":"8.2",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoIngles":{
+        "nomeAula":"Inglês",
+
+        "prova1":"8.6",
+    
+        "prova2":"7.2",
+    
+        "notaFinal":"7.9",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoBallet":{
+        "nomeAula":"Ballet",
+
+        "prova1":"6.0",
+    
+        "prova2":"7.5",
+    
+        "notaFinal":"6.8",
+    
+        "frequencia":"70%",
+    
+        "situacao":"Razoável"
+    }
+},{
+    "idAluno":"8",
+    "nome":"Pedro Almeida Pinto",
+    "cpf":"149.990.728-15",
+    "dataNascimento":"08/06/2012",
+    "email":"PedroAlmeida06@gmail.com",
+    "telefone":"(41) 3488-9055",
+    "endereco":"Rua Piauí, 40",
+    "ano":"5º ano",
+    "senha":"aluno",
+        "resultadoConhecGerais":{
+        "nomeAula":"Conhecimentos Gerais",
+
+        "prova1":"8.0",
+    
+        "prova2":"7.8",
+    
+        "notaFinal":"7.9",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoEdFisica":{
+        "nomeAula":"Educação Física",
+
+        "prova1":"7.3",
+    
+        "prova2":"6.5",
+    
+        "notaFinal":"6.9",
+    
+        "frequencia":"80%",
+    
+        "situacao":"Bom"
+    },
+    "resultadoIngles":{
+        "nomeAula":"Inglês",
+
+        "prova1":"9.6",
+    
+        "prova2":"9.3",
+    
+        "notaFinal":"9.5",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoJudo":{
+        "nomeAula":"Judô",
+        
+        "prova1":"7.8",
+    
+        "prova2":"9.5",
+    
+        "notaFinal":"8.7",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    }
+},{
+    "idAluno":"9",
+    "nome":"Renato Dias Correia",
+    "cpf":"481.677.108-58",
+    "dataNascimento":"25/12/2012",
+    "email":"RenatoDiasCorreia@hotmail.com",
+    "telefone":"(41) 9152-9618",
+    "endereco":"Rua Mário Gonçalves Medeiros, 14",
+    "ano":"5º ano",
+    "senha":"53160",
+    "resultadoConhecGerais":{
+        "nomeAula":"Conhecimentos Gerais",
+
+        "prova1":"10.0",
+    
+        "prova2":"9.9",
+    
+        "notaFinal":"10.0",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    },
+    "resultadoEdFisica":{
+        "nomeAula":"Educação Física",
+
+        "prova1":"8.3",
+    
+        "prova2":"9.0",
+    
+        "notaFinal":"8.7",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoIngles":{
+        "nomeAula":"Inglês",
+
+        "prova1":"9.3",
+    
+        "prova2":"8.7",
+    
+        "notaFinal":"9.0",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoJudo":{
+        "nomeAula":"Judô",
+   
+        "prova1":"8.8",
+    
+        "prova2":"8.9",
+    
+        "notaFinal":"8.6",
+    
+        "frequencia":"100%",
+    
+        "situacao":"Excelente"
+    }
+},{
+    "idAluno":"10",
+    "nome":"Thais Rocha Santos",
+    "cpf":"988.471.641-25",
+    "dataNascimento":"02/09/2012",
+    "email":"ThaisRocha2010@outlook.com.br",
+    "telefone":"(41) 3617-4152",
+    "endereco":"Rua Camurugipe, 793",
+    "ano":"5º ano",
+    "senha":"aluno",
+    "resultadoConhecGerais":{
+        "nomeAula":"Conhecimentos Gerais",
+        
+        "prova1":"9.9",
+    
+        "prova2":"9.0",
+    
+        "notaFinal":"9.6",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoEdFisica":{
+        "nomeAula":"Educação Física",
+        
+        "prova1":"7.6",
+    
+        "prova2":"9.1",
+    
+        "notaFinal":"8.4",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    },
+    "resultadoIngles":{
+        "nomeAula":"Inglês",
+        
+        "prova1":"9.7",
+    
+        "prova2":"9.4",
+    
+        "notaFinal":"9.6",
+    
+        "frequencia":"60%",
+    
+        "situacao":"Bom"
+    },
+    "resultadoBallet":{
+        "nomeAula":"Ballet",
+        
+        "prova1":"9.6",
+    
+        "prova2":"8.5",
+    
+        "notaFinal":"9.1",
+    
+        "frequencia":"90%",
+    
+        "situacao":"Ótimo"
+    }
+}]

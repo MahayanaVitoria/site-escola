@@ -1,0 +1,89 @@
+[{ 
+    "idLoginAluno":"1",
+    "email":"AnaRodrigues2011@hotmail.com.br",
+    "senha":"aluno"
+},{
+    "idLoginAluno":"2",
+    "email":"AndreAlmeida10@outlook.com",
+    "senha":"aluno"
+},{
+    "idLoginAluno":"3",
+    "email":"CarlosFC@gmail.com",
+    "senha":"aluno"
+},{
+    "idLoginAluno":"4",
+    "email":"FabioAzevedoAraujo@gmail.com.br",
+    "senha":"aluno"
+},{
+    "idLoginAluno":"6",
+    "email":"GabrielaAlves@gmail.com",
+    "senha":"aluno"
+},{
+    "idLoginAluno":"5",
+    "email":"Luiza041Gomes@hotmail.com",
+    "senha":"aluno"
+},{
+    "idLoginAluno":"7",
+    "email":"MariCarvalho@gmail.com",
+    "senha":"aluno"
+},{
+    "idLoginAluno":"8",
+    "email":"PedroAlmeida06@gmail.com",
+    "senha":"aluno"
+},{
+    "idLoginAluno":"9",
+    "email":"RenatoDiasCorreia@hotmail.com",
+    "senha":"aluno"
+},{
+    "idLoginAluno":"10",
+    "email":"ThaisRocha2010@outlook.com.br",
+    "senha":"aluno"
+},{
+    "idLoginResponsavel":"1",
+    "email":"AnaRodrigues2011@hotmail.com.br",
+    "senha":"resposavel"
+},{
+    "idLoginResponsavel":"2",
+    "email":"AndreAlmeida10@outlook.com",
+    "senha":"responsavel"
+},{
+    "idLoginResponsavel":"3",
+    "email":"CarlosFC@gmail.com",
+    "senha":"responsavel"
+},{
+    "idLoginResponsavel":"4",
+    "email":"FabioAzevedoAraujo@gmail.com.br",
+    "senha":"responsavel"
+},{
+    "idLoginResponsavel":"6",
+    "email":"GabrielaAlves@gmail.com",
+    "senha":"responsavel"
+},{
+    "idLoginResponsavel":"5",
+    "email":"Luiza041Gomes@hotmail.com",
+    "senha":"responsavel"
+},{
+    "idLoginResponsavel":"7",
+    "email":"MariCarvalho@gmail.com",
+    "senha":"responsavel"
+},{
+    "idLoginResponsavel":"8",
+    "email":"PedroAlmeida06@gmail.com",
+    "senha":"responsavel"
+},{
+    "idLoginResponsavel":"9",
+    "email":"RenatoDiasCorreia@hotmail.com",
+    "senha":"responsavel"
+},{
+    "idLoginResponsavel":"10",
+    "email":"ThaisRocha2010@outlook.com.br",
+    "senha":"responsavel"
+},{
+    "idLoginSecretaria":"1",
+    "email":"secretaria@escolanegativo.com",
+    "senha":"secretaria"
+},{
+    "idLoginProfessor":"1",
+    "email":"professor@escolanegativo.com",
+    "senha":"professor"
+}]
