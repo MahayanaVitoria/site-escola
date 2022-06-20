@@ -61,10 +61,8 @@ botao.addEventListener ("click", function(e) {
     // login professor
     }else if (email == "professor@escolanegativo.com" && senha == "professor"){
         window.location.href = '../telas/professor/index.html';
+    }else{
+        alert("Email ou senha estão incorretos!")
     }
-
-    // let para = document.createElement('p');
-    // para.textContent = ('Seu acesso é: ' + email);
-    // document.body.appendChild(para);
 
 })
